@@ -1,6 +1,7 @@
 # CS50's Introduction to Artificial Intelligence with Python
 
 This repository contains my solutions, notes, and experiments while taking [CS50's Introduction to AI with Python](https://cs50.harvard.edu/ai/) on edX.
+https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/9dba7415d95d46e0a159415234f316b3/?_gl=1*1h2lru1*_gcl_au*MTQwNzI5NTA5OS4xNzUxOTA3ODg4*_ga*MTg0NDUxNjYzNS4xNzUxOTA3ODg3*_ga_D3KS4KMDT0*czE3NTIxMDkyNTEkbzMkZzEkdDE3NTIxMTAxNDAkajUwJGwwJGgw
 
 ## 📚 Course Overview
 
