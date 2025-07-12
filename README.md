@@ -30,9 +30,9 @@ These solutions are for **learning purposes only**. Please **do not copy directl
 ## 🧑‍💻 Author
 
 - **Huy Nghia Nguyen**
-- 📧 [huynghia05012007@gmail.com](mailto:huynghia05012007@gmail.com)
-- 💼 [GitHub](https://github.com/trongnghia2007)
-- 💼 [LinkedIn](https://www.linkedin.com/in/huy-nghia-nguyen-501010333/)
+- 📧 [Gmail](huynghia05012007@gmail.com)
+- 👨‍💻 [LinkedIn link](https://www.linkedin.com/in/huy-nghia-nguyen-501010333/)
+- 💼 [GitHub link](https://github.com/trongnghia2007)
 
 ## ⭐️ Contributing
 
