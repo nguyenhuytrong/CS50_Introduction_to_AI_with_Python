@@ -23,13 +23,12 @@ CS50 AI with Python introduces foundational concepts in artificial intelligence 
 - Basic CLI usage
 - No advanced hardware required
 
-## Author
+## Author: Huy Trong Nguyen
 
-- **Huy Trong Nguyen**
 - [Gmail](huytrongnghia2007@gmail.com)
 - [Email](hxn2471@mavs.uta.edu)
-- [LinkedIn link]([https://www.linkedin.com/in/huy-nghia-nguyen-501010333/](https://www.linkedin.com/in/huy-trong-nguyen-976004202/))
-- [GitHub link]([https://github.com/trongnghia2007](https://github.com/nguyenhuytrong))
+- [LinkedIn link](https://www.linkedin.com/in/huy-trong-nguyen-976004202/)
+- [GitHub link](https://github.com/nguyenhuytrong)
 
 ## Contributing
 
